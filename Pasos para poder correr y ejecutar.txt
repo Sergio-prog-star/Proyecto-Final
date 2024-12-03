@@ -1,0 +1,8 @@
+Pasos para poder correr y ejecutar el código
+1. Tener instalado Python (abrir el cmd y poner el siguiente comando para asegurar que este instalado: python --version )
+
+2. Tener las dependencias necesarias, es decir, el mysql-connector (Primero se instala el Pip y después de instalarlo en el sistema, se ejecuta el siguiente comando en cmd para poder usarlo: pip install mysql-connector-python )
+
+3. Listo, ahora, ya solo se abre los archivos sql y se ejecutan para crear las bases de datos y las conexiones necesarias.
+
+4. Ya solo se abre el archivo de Python, y se abrirá sin problema y se podrá acceder al sistema y poder utilizar lo y manipularlo.
